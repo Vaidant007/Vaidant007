@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&size=22&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications!;Love+Solving+DSA+Problems!;Passionate+Frontend+Developer!+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&size=22&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications!;Love+Solving+DSA+Problems!;Passionate+Software+Developer!+🚀">
 </p>
 
 ---
 
 ## 🚀 **About Me**
-- 💡 **Passionate Frontend Developer** – Dedicated to crafting interactive and visually appealing user interfaces with modern web technologies.  
-- 🔥 **DSA Enthusiast** – Solved **300+ problems** on LeetCode & GeeksforGeeks, sharpening algorithmic thinking and problem-solving skills.  
+- 💡 **Passionate Software Developer** – Dedicated to crafting interactive and visually appealing user interfaces with modern web technologies.  
+- 🔥 **DSA Enthusiast** – Solved **400+ problems** on LeetCode & GeeksforGeeks, sharpening algorithmic thinking and problem-solving skills.  
 - 🌱 **Lifelong Learner** – Driven by curiosity and a beginner’s mindset, I embrace challenges, stay positive, and work relentlessly until the goal is achieved.
 
 ---
