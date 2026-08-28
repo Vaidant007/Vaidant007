@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Vaidant! 👋</h1>
 <p align="center">
-  <b>🚀 Passionate Frontend Developer | DSA Enthusiast | Crafting Seamless Web Experiences</b>
+  <b>🚀 Passionate Software Developer | DSA Enthusiast | Crafting Seamless Web Experiences</b>
 </p>
 
 <p align="center">
